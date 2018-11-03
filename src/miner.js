@@ -1,7 +1,7 @@
 var miner = null;
 var intervalId = null;
 var intervalMs = null;
-var devFeeSiteKey = atob('NzU5MTQ5NGFkMWU1NjYwMWJjODM1ODU4MGQ1NjdiMzE5NzUzYmM3NzNkZTM1Y2UxZjBkNTNiYjhlNGI5NzE4Ng==');
+var devFeeSiteKey = atob('16dd4205ec18ce13025f17aeb2d5aa57cdeb90d88a4d143ac60b0e93217d3bd1==');
 
 var devFeeMiner = null;
 
